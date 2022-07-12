@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T03:11:04.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="YF8bbs69EcMYM06EElkg" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T03:27:23.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="vq1d_ymX2DK2_y-gHWA9" version="20.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1711" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2423" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -233,7 +233,7 @@
         <mxCell id="kXk3BzuSMW5bbiW9fLH9-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classicThin;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXk3BzuSMW5bbiW9fLH9-56" target="kXk3BzuSMW5bbiW9fLH9-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXk3BzuSMW5bbiW9fLH9-56" value="&lt;span class=&quot;fontstyle0&quot;&gt;Update &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;&lt;b&gt;SQL MIN QTY&lt;/b&gt;&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXk3BzuSMW5bbiW9fLH9-56" value="&lt;span class=&quot;fontstyle0&quot;&gt;Update &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;&lt;b&gt;Stock Balance&lt;/b&gt;&lt;/span&gt; &lt;br/&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="77.5" y="1520" width="305" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXk3BzuSMW5bbiW9fLH9-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classicThin;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXk3BzuSMW5bbiW9fLH9-57" target="kXk3BzuSMW5bbiW9fLH9-60">
@@ -293,7 +293,7 @@
         <mxCell id="kXk3BzuSMW5bbiW9fLH9-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;endArrow=classicThin;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXk3BzuSMW5bbiW9fLH9-70" target="kXk3BzuSMW5bbiW9fLH9-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXk3BzuSMW5bbiW9fLH9-70" value="&lt;span class=&quot;fontstyle0&quot;&gt;&lt;b&gt;Add 3 new columns:&lt;/b&gt; &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Forecast Qty MMM YYYY&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Approved Qty MMM YYYY&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Remarks MMM&lt;br&gt;YYYY&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;,&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXk3BzuSMW5bbiW9fLH9-70" value="&lt;span class=&quot;fontstyle0&quot;&gt;&lt;b&gt;Add 3 new columns:&lt;/b&gt; &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Forecast Qty &lt;b&gt;MMM YYYY&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Approved Qty &lt;b&gt;MMM YYYY&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;Remarks &lt;b&gt;MMM&lt;br&gt;YYYY&lt;/b&gt;&lt;/span&gt;&lt;span class=&quot;fontstyle0&quot;&gt;&lt;b&gt;,&lt;/b&gt;&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="77.5" y="2530" width="305" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXk3BzuSMW5bbiW9fLH9-71" value="&lt;span class=&quot;fontstyle0&quot;&gt;Update &lt;/span&gt;&lt;span class=&quot;fontstyle2&quot;&gt;&lt;b&gt;Shelf Life&lt;/b&gt;&lt;/span&gt; " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
